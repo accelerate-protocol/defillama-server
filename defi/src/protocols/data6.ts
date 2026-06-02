@@ -5436,6 +5436,27 @@ const data6: Protocol[] = [
     dimensions: {
       fees: "render-network",
     },
+    {
+    id: "7967",
+    name: "AXC GYT",
+    address: "0xb2F0d43f6496b38bb55AbEA0fD2ee5cC891AcB33",
+    symbol: "GYT",
+    url: "https://axc.xyz",
+    description:
+      "Growth Yield Token (GYT) is a permissionless, liquid fund‑of‑hedge‑funds (RWA) product. The fund issuer has partnered up with AXC labs to unlock onchain liquidity and onchain composability. The Fund of Hedge fund is an OFC fund, domiciled in Hong Kong. Its investment strategy allocates capital to top‑performing global hedge funds, including firms such as TCI, Citadel, Point72, Brevan Howard, and others.  The underlying fund manager Grow Investment Group has over 20 years of industry experience and has established strategic shareholder relationships with entities like Julius Baer and Lighthouse.",
+    chain: "Binance",
+    logo: `${baseIconsUrl}/axc-gift.jpg`,
+    audits: "0",
+    gecko_id: null,
+    cmcId: null,
+    tags: ["Private Credit"],
+    chains: ["Binance"],
+    module: "axc/index.js",
+    forkedFromIds: [],
+    audit_links: [],
+    github: ["accelerate-protocol"],
+    twitter: "AXCLabs",
+    listedAt: 1780326322
   },
 ];
 export default data6;
